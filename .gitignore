@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+model.pkl
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+
+# Mac OS & Editors
+.DS_Store
+.vscode/
+.idea/
+*.csv
+*.csv
+*.pkl
